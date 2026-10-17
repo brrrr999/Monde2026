@@ -1,0 +1,165 @@
+SELFTEST init 0.92 s, 168 pays, 1940 régions
+SELFTEST terrain réel : true, Plaine 586, Forêt 96, Collines 308, Montagne 367, Désert 197, Jungle et marais 327, Zone urbaine 44, Toundra 15
+SELFTEST régions attribuées : 1940
+SELFTEST régions sans contour : 0, frontières : 4633
+SELFTEST image de la carte : 0.020 s
+SELFTEST mois 1 : UKR perd 4 [Crimée, Donetsk, Lougansk, Zaporijjia]
+SELFTEST    batailles 1 (Lougansk 91%) ; météo Donetsk Hiver rigoureux
+SELFTEST    tactiques : Barrage d'artillerie 1, Défense ferme 1 ; armées mal ravitaillées 0 ; niveau moyen des généraux 2.24
+SELFTEST    RUS 7 armées / 98 div / org 100 % ; UKR 7 armées / 109 div / org 96 % ; garnison UKR 11 ; front UKR 5/5 régions tenues par une armée
+SELFTEST mois 2 : UKR perd 3 [Crimée, Donetsk, Zaporijjia]
+SELFTEST    batailles 3 (Kharkiv 96%, Tchernihiv 96%, Rostov 76%) ; météo Donetsk Raspoutitsa (boue)
+SELFTEST    tactiques : Défense ferme 2, Barrage d'artillerie 2, Brouillage 1, Essaim de drones 1 ; armées mal ravitaillées 0 ; niveau moyen des généraux 2.24
+SELFTEST    RUS 7 armées / 98 div / org 93 % ; UKR 7 armées / 109 div / org 85 % ; garnison UKR 11 ; front UKR 4/6 régions tenues par une armée
+SELFTEST mois 3 : UKR perd 5 [Crimée, Donetsk, Kharkiv, Tchernihiv, Zaporijjia]
+SELFTEST    batailles 4 (Briansk 72%, Poltava 98%, Donetsk 77%, Dnipropetrovsk 19%) ; météo Donetsk Raspoutitsa (boue)
+SELFTEST    tactiques : Défense élastique 3, Percée blindée 3, Barrage d'artillerie 1, Embuscade 1 ; armées mal ravitaillées 0 ; niveau moyen des généraux 2.29
+SELFTEST    RUS 7 armées / 98 div / org 67 % ; UKR 7 armées / 109 div / org 45 % ; garnison UKR 11 ; front UKR 4/7 régions tenues par une armée
+SELFTEST mois 4 : UKR perd 6 [Crimée, Donetsk, Kharkiv, Poltava, Tchernihiv, Zaporijjia]
+SELFTEST    batailles 3 (Donetsk 82%, Poltava 85%, Voronej 90%) ; météo Donetsk Temps clair
+SELFTEST    tactiques : Défense ferme 2, Tenaille 1, Infiltration 1, Brouillage 1, Assaut frontal 1 ; armées mal ravitaillées 0 ; niveau moyen des généraux 2.29
+SELFTEST    RUS 7 armées / 98 div / org 66 % ; UKR 7 armées / 109 div / org 65 % ; garnison UKR 51 ; front UKR 4/8 régions tenues par une armée
+SELFTEST mois 5 : UKR perd 6 [Crimée, Donetsk, Kharkiv, Poltava, Tchernihiv, Zaporijjia]
+SELFTEST    batailles 3 (Kharkiv 91%, Kalmoukie 91%, Dnipropetrovsk 58%) ; météo Donetsk Temps clair
+SELFTEST    tactiques : Barrage d'artillerie 2, Défense ferme 2, Défense élastique 1, Infiltration 1 ; armées mal ravitaillées 0 ; niveau moyen des généraux 2.29
+SELFTEST    RUS 7 armées / 98 div / org 62 % ; UKR 7 armées / 109 div / org 63 % ; garnison UKR 71 ; front UKR 5/8 régions tenues par une armée
+SELFTEST mois 6 : UKR perd 6 [Crimée, Donetsk, Kharkiv, Poltava, Tchernihiv, Zaporijjia]
+SELFTEST    batailles 2 (Tchernihiv 97%, Volgograd 92%) ; météo Donetsk Temps clair
+SELFTEST    tactiques : Défense élastique 2, Percée blindée 1, Assaut frontal 1 ; armées mal ravitaillées 0 ; niveau moyen des généraux 2.25
+SELFTEST    RUS 7 armées / 98 div / org 67 % ; UKR 10 armées / 184 div / org 73 % ; garnison UKR 16 ; front UKR 6/8 régions tenues par une armée
+SELFTEST — année 2027 : 11.97 s de calcul
+SELFTEST USA PIB 31114 Md$ croiss 2.6% dette 121% infl 2.8% stab 63 div 99 perdu 0%
+SELFTEST CHN PIB 20330 Md$ croiss 4.2% dette 89% infl 0.1% stab 63 div 162 perdu 0%
+SELFTEST FRA PIB 3233 Md$ croiss 1.0% dette 114% infl 2.9% stab 62 div 18 perdu 0%
+SELFTEST DEU PIB 4944 Md$ croiss 1.2% dette 64% infl 2.9% stab 71 div 16 perdu 0%
+SELFTEST RUS PIB 2112 Md$ croiss 1.6% dette 27% infl 7.9% stab 51 div 205 perdu 0%
+SELFTEST UKR PIB 179 Md$ croiss 1.0% dette 100% infl 11.1% stab 43 div 239 perdu 23%
+SELFTEST IND PIB 4481 Md$ croiss 6.0% dette 80% infl 2.6% stab 68 div 206 perdu 0%
+SELFTEST BRA PIB 2267 Md$ croiss 2.3% dette 90% infl 4.9% stab 70 div 33 perdu 0%
+SELFTEST ARM PIB 26 Md$ croiss 5.4% dette 53% infl 2.7% stab 70 div 5 perdu 0%
+SELFTEST SDN PIB 28 Md$ croiss -7.4% dette 70% infl 74.0% stab 5 div 14 perdu 38%
+SELFTEST guerres : Guerre russo-ukrainienne
+SELFTEST   RUS équip 99% mult 1.03 terre 7543 air 1037 missiles 6078 drones 76780 pertes 214k lassitude 41% posture Offensive
+SELFTEST   UKR équip 82% mult 0.75 terre 6290 air 30 missiles 263 drones 57127 pertes 641k lassitude 100% posture Défensive
+SELFTEST   armées : RUS 10, UKR 6, total 19 ; régions ukrainiennes tenues par l'ennemi : 5/25
+SELFTEST tension 39, plans de guerre 0, prix pétrole 0.92
+SELFTEST — année 2028 : 7.42 s de calcul
+SELFTEST USA PIB 31979 Md$ croiss 3.0% dette 121% infl 2.7% stab 64 div 99 perdu 0%
+SELFTEST CHN PIB 21211 Md$ croiss 3.6% dette 89% infl 0.2% stab 60 div 162 perdu 0%
+SELFTEST FRA PIB 3274 Md$ croiss 1.4% dette 114% infl 2.9% stab 67 div 18 perdu 0%
+SELFTEST DEU PIB 5057 Md$ croiss 2.0% dette 66% infl 2.9% stab 75 div 16 perdu 0%
+SELFTEST RUS PIB 2189 Md$ croiss 3.9% dette 32% infl 6.8% stab 50 div 245 perdu 0%
+SELFTEST UKR PIB 199 Md$ croiss 12.2% dette 83% infl -0.2% stab 44 div 279 perdu 23%
+SELFTEST IND PIB 4744 Md$ croiss 5.7% dette 79% infl 2.0% stab 66 div 206 perdu 0%
+SELFTEST BRA PIB 2336 Md$ croiss 2.6% dette 93% infl 4.6% stab 72 div 33 perdu 0%
+SELFTEST ARM PIB 28 Md$ croiss 5.0% dette 53% infl 2.4% stab 69 div 5 perdu 0%
+SELFTEST SDN PIB 27 Md$ croiss -4.0% dette 76% infl 64.7% stab 3 div 14 perdu 36%
+SELFTEST guerres : 
+SELFTEST   RUS équip 100% mult 1.15 terre 10012 air 1418 missiles 7692 drones 89018 pertes 235k lassitude 0% posture Équilibrée
+SELFTEST   UKR équip 93% mult 0.86 terre 8404 air 37 missiles 338 drones 58979 pertes 645k lassitude 55% posture Équilibrée
+SELFTEST   armées : RUS 10, UKR 6, total 19 ; régions ukrainiennes tenues par l'ennemi : 5/25
+SELFTEST   test : le Venezuela attaque le Guyana
+SELFTEST   Guyana : 0/10 régions perdues, armées VEN 0
+SELFTEST tension 31, plans de guerre 0, prix pétrole 0.80
+SELFTEST — année 2029 : 10.63 s de calcul
+SELFTEST USA PIB 32107 Md$ croiss 0.2% dette 126% infl 3.4% stab 64 div 99 perdu 0%
+SELFTEST CHN PIB 21980 Md$ croiss 2.4% dette 91% infl 0.4% stab 62 div 162 perdu 0%
+SELFTEST FRA PIB 3320 Md$ croiss 1.6% dette 114% infl 3.2% stab 70 div 18 perdu 0%
+SELFTEST DEU PIB 5177 Md$ croiss 1.9% dette 69% infl 3.1% stab 78 div 16 perdu 0%
+SELFTEST RUS PIB 2269 Md$ croiss 2.8% dette 38% infl 6.4% stab 53 div 245 perdu 0%
+SELFTEST UKR PIB 222 Md$ croiss 10.6% dette 75% infl -1.5% stab 55 div 279 perdu 23%
+SELFTEST IND PIB 4951 Md$ croiss 4.1% dette 81% infl 1.9% stab 64 div 206 perdu 0%
+SELFTEST BRA PIB 2395 Md$ croiss 1.7% dette 100% infl 4.5% stab 72 div 33 perdu 0%
+SELFTEST ARM PIB 29 Md$ croiss 4.0% dette 56% infl 2.5% stab 69 div 5 perdu 0%
+SELFTEST SDN PIB 27 Md$ croiss -2.7% dette 87% infl 57.5% stab 2 div 14 perdu 36%
+SELFTEST guerres : Guerre pour Essequibo
+SELFTEST   RUS équip 100% mult 1.16 terre 10100 air 1831 missiles 9337 drones 100771 pertes 235k lassitude 0% posture Équilibrée
+SELFTEST   UKR équip 100% mult 0.93 terre 9073 air 45 missiles 429 drones 62334 pertes 645k lassitude 11% posture Équilibrée
+SELFTEST   armées : RUS 10, UKR 6, total 30 ; régions ukrainiennes tenues par l'ennemi : 5/25
+SELFTEST   Guyana : 3/10 régions perdues, armées VEN 4
+SELFTEST tension 30, plans de guerre 0, prix pétrole 0.81
+SELFTEST — année 2030 : 11.78 s de calcul
+SELFTEST USA PIB 32373 Md$ croiss 1.0% dette 131% infl 4.1% stab 63 div 99 perdu 0%
+SELFTEST CHN PIB 22649 Md$ croiss 3.5% dette 91% infl 0.6% stab 63 div 162 perdu 0%
+SELFTEST FRA PIB 3377 Md$ croiss 1.7% dette 113% infl 3.3% stab 71 div 18 perdu 0%
+SELFTEST DEU PIB 5308 Md$ croiss 2.9% dette 70% infl 3.3% stab 80 div 16 perdu 0%
+SELFTEST RUS PIB 2387 Md$ croiss 3.7% dette 43% infl 5.8% stab 54 div 245 perdu 0%
+SELFTEST UKR PIB 250 Md$ croiss 10.9% dette 70% infl -1.5% stab 67 div 279 perdu 23%
+SELFTEST IND PIB 5173 Md$ croiss 4.4% dette 81% infl 1.6% stab 63 div 206 perdu 0%
+SELFTEST BRA PIB 2475 Md$ croiss 3.2% dette 102% infl 4.2% stab 71 div 33 perdu 0%
+SELFTEST ARM PIB 30 Md$ croiss 4.9% dette 60% infl 2.2% stab 70 div 5 perdu 0%
+SELFTEST SDN PIB 25 Md$ croiss 0.8% dette 99% infl 49.1% stab 2 div 14 perdu 40%
+SELFTEST guerres : Guerre pour Essequibo
+SELFTEST   RUS équip 100% mult 1.17 terre 10191 air 2277 missiles 11023 drones 112813 pertes 235k lassitude 0% posture Équilibrée
+SELFTEST   UKR équip 100% mult 0.93 terre 9103 air 55 missiles 517 drones 68963 pertes 645k lassitude 0% posture Équilibrée
+SELFTEST   armées : RUS 10, UKR 6, total 30 ; régions ukrainiennes tenues par l'ennemi : 5/25
+SELFTEST   Guyana : 3/10 régions perdues, armées VEN 4
+SELFTEST tension 29, plans de guerre 0, prix pétrole 0.71
+SELFTEST — année 2031 : 12.16 s de calcul
+SELFTEST USA PIB 32676 Md$ croiss 0.9% dette 138% infl 4.6% stab 61 div 99 perdu 0%
+SELFTEST CHN PIB 23661 Md$ croiss 3.3% dette 91% infl 0.7% stab 64 div 162 perdu 0%
+SELFTEST FRA PIB 3439 Md$ croiss 1.8% dette 112% infl 3.4% stab 71 div 18 perdu 0%
+SELFTEST DEU PIB 5478 Md$ croiss 2.5% dette 73% infl 3.4% stab 83 div 16 perdu 0%
+SELFTEST RUS PIB 2488 Md$ croiss 3.4% dette 45% infl 5.4% stab 54 div 245 perdu 0%
+SELFTEST UKR PIB 276 Md$ croiss 9.1% dette 67% infl -1.1% stab 72 div 279 perdu 23%
+SELFTEST IND PIB 5431 Md$ croiss 4.4% dette 82% infl 1.5% stab 63 div 206 perdu 0%
+SELFTEST BRA PIB 2584 Md$ croiss 3.0% dette 103% infl 4.0% stab 71 div 33 perdu 0%
+SELFTEST ARM PIB 32 Md$ croiss 4.6% dette 62% infl 2.0% stab 70 div 5 perdu 0%
+SELFTEST SDN PIB 23 Md$ croiss 1.9% dette 115% infl 40.5% stab 2 div 14 perdu 47%
+SELFTEST guerres : Guerre pour Essequibo
+SELFTEST   RUS équip 100% mult 1.17 terre 10249 air 2726 missiles 12730 drones 125001 pertes 235k lassitude 0% posture Équilibrée
+SELFTEST   UKR équip 100% mult 0.93 terre 9132 air 65 missiles 612 drones 76032 pertes 645k lassitude 0% posture Équilibrée
+SELFTEST   armées : RUS 10, UKR 6, total 30 ; régions ukrainiennes tenues par l'ennemi : 5/25
+SELFTEST   Guyana : 3/10 régions perdues, armées VEN 4
+SELFTEST tension 28, plans de guerre 0, prix pétrole 0.69
+SELFTEST pays aux chiffres suspects : 
+SELFTEST évènement : 🗳️ Bosnie-Herzégovine : le gouvernement (Droite) remporte les élections.
+SELFTEST évènement : 🗳️ Chypre : alternance, la droite remporte les élections face à le centre.
+SELFTEST évènement : Taïwan achève : Zone franche technologique.
+SELFTEST évènement : 📨 Portugal vous propose : Accord commercial.
+SELFTEST évènement : 🗳️ Tchéquie : le gouvernement (Nationalistes) remporte les élections.
+SELFTEST évènement : 🗳️ Hongrie : le gouvernement (Nationalistes) remporte les élections.
+SELFTEST évènement : Inde achève : Rayonnement culturel.
+SELFTEST évènement : 🗳️ Norvège : le gouvernement (Gauche) remporte les élections.
+SELFTEST évènement : 🗳️ Pérou : le gouvernement (Droite) remporte les élections.
+SELFTEST évènement : 🕊️ Syrie : le gouvernement reprend le contrôle du pays.
+SELFTEST évènement : 🗳️ Colombie : le gouvernement (Droite) remporte les élections.
+SELFTEST évènement : 🗳️ Honduras : alternance, la droite remporte les élections face à la gauche.
+SELFTEST évènement : Corée du Sud achève : Rayonnement culturel.
+SELFTEST évènement : 🗳️ Népal : le gouvernement (Droite) remporte les élections.
+SELFTEST évènement : 🗳️ Pakistan : le gouvernement (Droite) remporte les élections.
+SELFTEST évènement : 🗳️ Panama : alternance, la gauche remporte les élections face à la droite.
+SELFTEST évènement : Arabie saoudite achève : Plan de réindustrialisation.
+SELFTEST évènement : ⚽ Coupe du monde 2030 au Maroc, en Espagne et au Portugal.
+SELFTEST évènement : 🗳️ Corée du Sud : le gouvernement (Gauche) remporte les élections.
+SELFTEST évènement : 🗳️ Mexique : le gouvernement (Gauche) remporte les élections.
+SELFTEST évènement : Russie achève : Garde nationale.
+SELFTEST évènement : 📨 Luxembourg vous propose : Accord commercial.
+SELFTEST évènement : 📨 Ukraine vous propose : Accord commercial.
+SELFTEST évènement : Allemagne achève : Bouclier antimissile.
+SELFTEST évènement : Espagne achève : Souveraineté des semi-conducteurs.
+SELFTEST évènement : 🗳️ Jamaïque : le gouvernement (Centre) remporte les élections.
+SELFTEST évènement : 🗳️ Sénégal : alternance, la droite remporte les élections face à le centre.
+SELFTEST évènement : 📨 Pays-Bas vous propose : Accord commercial.
+SELFTEST évènement : 🗳️ Bolivie : alternance, la droite remporte les élections face à la gauche.
+SELFTEST évènement : 🗳️ Gabon : le gouvernement (Centre) remporte les élections.
+SELFTEST évènement : 🗳️ Moldavie : le gouvernement (Centre) remporte les élections.
+SELFTEST évènement : 🗳️ Madagascar : le gouvernement (Centre) remporte les élections.
+SELFTEST évènement : 🗳️ Suède : le gouvernement (Droite) remporte les élections.
+SELFTEST évènement : 🕊️ Burkina Faso : le gouvernement reprend le contrôle du pays.
+SELFTEST évènement : 🗳️ Brésil : alternance, la gauche remporte les élections face à la droite.
+SELFTEST évènement : 🗳️ Croatie : le gouvernement (Gauche) remporte les élections.
+SELFTEST évènement : 🗳️ Israël : alternance, la droite remporte les élections face à le centre.
+SELFTEST évènement : Mexique achève : Plan de réindustrialisation.
+SELFTEST évènement : 🗳️ Singapour : le gouvernement (Centre) remporte les élections.
+SELFTEST évènement : 📨 Finlande vous propose : Accord commercial.
+SELFTEST sauvegarde : 2545 ko
+SELFTEST rechargement OK
+SELFTEST intrigue : 1re armée part en « volontaires » pour Ukraine. Ses conquêtes iront à Ukraine (en bleu pour vous).
+SELFTEST intrigue : Livraison secrète à Ukraine (5 % de vos stocks). Risque d'être découvert.
+SELFTEST intrigue : 1 usines produisent pour Ukraine pendant 6 mois.
+SELFTEST intrigue : armées polonaises au service de l'Ukraine 1, conquêtes pour l'Ukraine 0, en guerre avec la Russie : false
+SELFTEST intrigue : attaque conjointe Lituanie→Biélorussie : score -46
+SELFTEST intrigue : ultimatum à la Biélorussie : score -196
+SELFTEST total 67.3 s
+SELFTEST FIN
